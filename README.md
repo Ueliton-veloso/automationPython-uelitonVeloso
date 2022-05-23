@@ -19,9 +19,11 @@
   
 
 <div>
-  <a href="https://www.youtube.com/channel/UCJfgV9QPJySQxErrb01HCcg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-
-</div> 
+  <a href="https://www.youtube.com/channel/UCJfgV9QPJySQxErrb01HCcg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  <a href="https://www.linkedin.com/in/ueliton-veloso-377409208/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</div>
+    
+    
   
 
 
