@@ -19,7 +19,7 @@
   
 
 <div>
-  <a href="wellingtontom-14@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UCJfgV9QPJySQxErrb01HCcg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
 </div> 
   
