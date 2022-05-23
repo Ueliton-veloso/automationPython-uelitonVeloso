@@ -17,6 +17,11 @@
   <img height="40cm" width="30cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 </div>
   
+
+<div>
+  <a href="WELLINGTONTOM-14@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+
+ </div> 
   
 
 
